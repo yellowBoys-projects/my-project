@@ -127,6 +127,14 @@ textarea {
     height: 30px;
     color: white;
   }
+  .btn01 {
+}
+.hide {
+}
+
+.remove{
+}
+
 }
 
 @media screen and (min-width:768px) {
@@ -143,14 +151,11 @@ textarea {
 
 }
 .btn01 {
-  display: block;
 }
 .hide {
-  display: none;
 }
 
 .remove{
-	display: none;
 }
 
 
