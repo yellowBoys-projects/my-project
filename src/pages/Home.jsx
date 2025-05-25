@@ -24,7 +24,7 @@ export default function Home() {
     <>
       <main>
         <div className="hero-img relative">
-          <div id='btn01' className="hide">
+          <div id='btn01' className="hide hidden md:block">
             <Navbar />
           </div>
           <HomeContent />
